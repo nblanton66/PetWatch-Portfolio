@@ -47,12 +47,7 @@ PetWatch is helping me develop a more practical understanding of AI-assisted sof
 - Validate core workflows with controlled testing.
 - Continue provider research and assess private-beta readiness.
 
-## Portfolio and access
-
-This repository, if approved for publication, is **documentation-only**. It does not contain PetWatch application source code, production configurations, customer data, credentials, or private security reports. The development repository remains private.
+## Connect
 
 **Founder:** [Natalie Blanton](https://www.linkedin.com/in/nblanton/)
 
----
-
-*Draft for review. No public launch, revenue, security certification, or broad market validation is claimed.*
